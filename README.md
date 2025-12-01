@@ -13,7 +13,7 @@ If reading through these notebooks, follow this order:
 1. Modeling (./model.ipynb)
   * Generates negative samples for the 2017 data
   * Scratch work for modeling approaches
-## Webscraping (/webscraping) -- independent of EDA and Modeling
+## Webscraping (/webscraping) 
 1. Scraping Steam Bundles (./scrape_bundle_items.ipynb)
   * Selenium for scraping + bs4 for HTML parsing
   * Generates 2025 Steam Bundle data
