@@ -22,4 +22,13 @@ If reading through these notebooks, follow this order:
 ## Data Imports (/import_data)
 1. Datasets required for Google Colab notebook
   * Contains 4 csv files
+  * Files are renamed copies of csv exports from the notebooks listed above
 ## Google Colab Notebook
+Accessible [here](https://colab.research.google.com/drive/1IhdHvFRiEDOWrwkiVlP-bFe5f0kh1kyA?usp=sharing)
+Note: You must download the 4 csv files from /import_data and add them to your run time environment if running the full notebook.
+1. Modeling and Analysis
+ * Logistic Regression, Random Forest and SVD approaches to bundles
+ * Models trained on 2017 data
+ * Models tested on 2017 data
+ * Models tested on 2025 data
+ * AUC plots + Accuracy metrics available for each model
